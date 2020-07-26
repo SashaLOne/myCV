@@ -22,10 +22,18 @@ strong{
 }
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+    width: 40%;
     color:rgb(2, 41, 43) ;
+    float: left;
+    box-sizing: border-box;
 }
 li{
     font-family: 'Quicksand', sans-serif;
     font-style: italic;
+    float: left;
+}
+img{
+    width: 20%;
+    float: left;;
+    margin: 30px;
 }
