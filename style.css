@@ -9,6 +9,7 @@ body{
     margin-left:10%;
     margin-right: 10%;
     margin-top: 50px;
+    margin-bottom: 100px;
     
     background-image: url("img/background.jpg");
 }
@@ -32,6 +33,7 @@ li{
     font-family: 'Quicksand', sans-serif;
     font-style: italic;
     float: left;
+    width: 60%;
 }
 img{
     width: 30%;
@@ -39,12 +41,14 @@ img{
     margin: 30px;
 }
 #footer {
-    position: fixed; /* Фиксированное положение */
-    left: 0; bottom: 0; /* Левый нижний угол */
+    position: fixed;
+    float: right; /* Фиксированное положение */
+    bottom: 0;right: 350;/* Левый нижний угол */
     padding: 10px; /* Поля вокруг текста */
-    background: rgb(49, 136, 187); /* Цвет фона */
-    color:rgb(79, 47, 57); /* Цвет текста */
+    background:rgba(100, 160, 200, 0.6); /* Цвет фона */
+    color:rgba(16, 9, 59, 0.842); /* Цвет текста */
     width: 100%; /* Ширина слоя */
+    font-size: 16px;
     
    }
    
