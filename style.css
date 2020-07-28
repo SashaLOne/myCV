@@ -64,7 +64,7 @@ img.sport{
 }
 div.hobby{
     font-family: 'Quicksand', sans-serif;
-    font-style: italic;
+   
     height: 50px;
     width: 290px;
     position: relative;
@@ -74,7 +74,7 @@ div.hobby{
 div.workexp
 {
     font-family: 'Quicksand', sans-serif;
-    font-style: italic;
+   
     height: 250px;
     width: 600px;
     position: relative;
@@ -107,7 +107,7 @@ strong{
     width: 100%; /* Ширина слоя */
     font-size: 14px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: italic;    
+     
    }
 
    a{
