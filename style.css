@@ -116,17 +116,16 @@ strong{
    }
   
    
-   span{
-       font-size: 2em;
+   .motiv{
+       font-size: 1.5em;
        font-style: italic;
+       text-shadow: rgb(55, 147, 228) 0 0 2px;
        font-family: 'Quicksand', sans-serif;
-       color: azure;
-       padding: 20px;
-       margin-top: 20px;
+       color: white;
+       margin-right: 50px;
+       margin-top: 50px;
+       max-width: 975px;
+       position: relative;
+       top: 110px;left: 120px;
    }
-   body.motivation{
-        font-family: 'Quicksand', sans-serif;
-        background-color: rgb(32, 117, 187);
-        margin: (20,0,0,20);
-   }
-  
+   
