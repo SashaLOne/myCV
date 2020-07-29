@@ -62,6 +62,15 @@ img.sport{
 
     
 }
+img.volleyball{
+    border: 1px solid white;
+    width: 22%;
+    position: relative;
+    top: -380px;
+    right: -480px;
+
+    
+}
 div.hobby{
     font-family: 'Quicksand', sans-serif;
    
