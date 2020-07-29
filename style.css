@@ -82,13 +82,7 @@ div.workexp
     top: -365px;
     
 }
-body{
-    background-color: #0a2b20;
-    margin-bottom: 50px;   
-    background-image: url("img/background.jpg");
-    margin-right: 5%;
-    
-}
+
 strong{
     font-family: 'Quicksand', sans-serif;
     font-size: 2.3ex;
@@ -101,11 +95,11 @@ strong{
     border: 1px solid white;
     position: fixed;
     bottom: 0;left: 0;/* Левый нижний угол */
-    padding: 10px; /* Поля вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
     background:rgba(100, 160, 200, 0.6); /* Цвет фона */
     color:rgba(250, 250, 250, 0.842); /* Цвет текста */
     width: 100%; /* Ширина слоя */
-    font-size: 14px;
+    font-size: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
      
    }
@@ -114,17 +108,28 @@ strong{
        text-decoration: none;
        color: aliceblue;
    }
-  
-   
-   .motiv{
-       font-size: 1.5em;
-       text-shadow: rgb(55, 147, 228) 0 0 2px;
-       font-family: 'Quicksand', sans-serif;
-       color: white;
-       margin-right: 50px;
-       margin-top: 50px;
-       max-width: 975px;
-       position: relative;
-       top: 110px;left: 120px;
-   }
-   
+   -body{
+    background-color: #0a2b20;
+    margin-bottom: 50px;   
+    background-image: url("img/background.jpg");
+    margin-right: 5%;
+    
+}
+.motiv{
+    font-size: 1.5em;
+    text-shadow: rgb(55, 147, 228) 0 0 2px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    margin-right: 50px;
+    margin-top: 50px;
+    max-width: 975px;
+    position: relative;
+    top: 110px;left: 120px;
+}
+body{
+    background-color: #0a2b20;
+    margin-bottom: 50px;   
+    background-image: url("img/background.jpg");
+    margin-right: 5%;
+    
+}
