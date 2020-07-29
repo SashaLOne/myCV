@@ -117,13 +117,7 @@ strong{
        text-decoration: none;
        color: aliceblue;
    }
-   -body{
-    background-color: #0a2b20;
-    margin-bottom: 50px;   
-    background-image: url("img/background.jpg");
-    margin-right: 5%;
-    
-}
+
 .motiv{
     font-size: 1.5em;
     text-shadow: rgb(55, 147, 228) 0 0 2px;
